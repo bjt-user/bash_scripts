@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#this script prints the number of semicolons in each row of the file test.csv
+#this script prints the number of semicolons in each row of the file that is given as command line argument
 #todo: look up number of rows first, then set loop accordingly
  
 FILE=$1
